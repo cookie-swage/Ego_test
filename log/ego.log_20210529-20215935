@@ -1,0 +1,2 @@
+2021-05-29 15:59:36,174 INFO [root] [test_index.py(test04_login_ok:51)] - 验证token结果:{'msg': 'invalid parameters', 'error_code': 10000, 'request_url': '/api/v1/token/verify'}
+2021-05-29 15:59:36,262 INFO [root] [test_index.py(test04_login_ok:57)] - 登录成功的结果:{'msg': 'Token已过期或无效Token', 'error_code': 10001, 'request_url': '/api/v1/address'}

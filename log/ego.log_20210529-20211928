@@ -1,0 +1,2 @@
+2021-05-29 17:19:28,895 INFO [root] [test_user.py(test04_verfly_token_ok:23)] - 验证token结果:{'isValid': True}
+2021-05-29 17:19:28,930 INFO [root] [test_user.py(test05_address_ok:34)] - 登录成功的结果:{'name': '张三', 'mobile': '020-81167888', 'province': '广东省', 'city': '广州市', 'country': '海珠区', 'detail': '新港中路397号', 'update_time': '1970-01-01 08:00:00'}

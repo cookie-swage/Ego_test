@@ -1,0 +1,3 @@
+2021-05-29 20:19:57,821 INFO [root] [test_user.py(test01_verfly_token_ok:24)] - 验证token结果:{'msg': 'invalid parameters', 'error_code': 10000, 'request_url': '/api/v1/token/verify'}
+2021-05-29 20:19:57,852 INFO [root] [test_user.py(test02_address_ok:35)] - 登录成功的结果:{'msg': 'Token已过期或无效Token', 'error_code': 10001, 'request_url': '/api/v1/address'}
+2021-05-29 20:19:57,868 INFO [root] [test_user.py(test03_order_list:45)] - 获取的订单列表:{'msg': 'Token已过期或无效Token', 'error_code': 10001, 'request_url': '/api/v1/order/by_user?page=1'}
